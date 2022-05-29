@@ -1,4 +1,4 @@
-**##UMI##**
+**UMI**
 ------------
 
 *Il commando "stamp" serve per scrivere una riga nel terminale*
