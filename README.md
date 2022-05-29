@@ -7,7 +7,7 @@
 
 *Il commando "fines" serve per creare una finestra*
 
-"Il commando "butt" serve per creare un bottone*
+*Il commando "butt" serve per creare un bottone*
 
 *Il commando "scrivr" serve per creare una posizione in qui l'utente può scrivere*
 
