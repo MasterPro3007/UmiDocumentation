@@ -7,13 +7,13 @@
 
 *Il commando "fines" serve per creare una finestra*
 
-*"Il commando "butt" serve per creare un bottone"*
+"Il commando "butt" serve per creare un bottone*
 
 *Il commando "scrivr" serve per creare una posizione in qui l'utente può scrivere*
 
 *Il commando "eseg serve per eseguire un operazione"*
 
-*"Il commando "per" server per esprimere per cosa deve essere contenuto il commando (Esempio mentre clicchiamo un bottone)*
+*Il commando "per" server per esprimere per cosa deve essere contenuto il commando (Esempio mentre clicchiamo un bottone)*
 
 *L'espressione "nuo" significa nuovo*
 
